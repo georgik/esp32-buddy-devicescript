@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/microsoft/devicescript-esp32/main/boards/esp32deviceconfig.schema.json",
+    "devName": "Espressif ESP32-Buddy",
+    "productId": "0x33f29c60",
+    "$description": "Bare ESP32 without any default functions for pins.",
+    "archId": "esp32",
+    "url": "https://www.espressif.com/en/products/socs/esp32",
+    "i2c": {
+        "pinSCL": 23,
+        "pinSDA": 18
+    },
+    "pins": {
+        "P13": 13,
+        "P14": 14,
+        "P19": 19,
+        "P21": 21,
+        "P22": 22,
+        "P25": 25,
+        "P26": 26,
+        "P27": 27,
+        "P32": 32,
+        "P33": 33,
+        "P34": 34,
+        "P35": 35,
+        "P36": 36,
+        "P39": 39,
+        "P4": 4
+    }
+}
