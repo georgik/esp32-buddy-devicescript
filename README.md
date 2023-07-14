@@ -2,6 +2,11 @@
 
 Simple example usign DeviceScript to display animation on the screen.
 
+![ESP32-Buddy animation 01](docs/images/devicescript-animation-01.jpg)
+
+![ESP32-Buddy animation 02](docs/images/devicescript-animation-02.jpg)
+
+
 This project uses [DeviceScript](https://microsoft.github.io/devicescript/).
 
 ## Project structures
