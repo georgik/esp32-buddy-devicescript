@@ -6,7 +6,7 @@ const screen = await startCharacterScreen(
 
 let counter = 0;
 let frames = [ '_', '.', '-', '=', 'O', '=', '-', '.']
-// Read sensor data every 5 seconds
+// Update animation every second
 setInterval(async () => {
     counter+=1;
     if (counter >= frames.length) {
